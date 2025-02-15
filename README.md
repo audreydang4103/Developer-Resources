@@ -1,7 +1,3 @@
-# Web Development Project 1 - *Developer Resources*
-
-Submitted by: **Audrey Dang**
-
 This web app: **This web app provides a collection of valuable resources for developers: tutorials, tools, and guides to enhance coding and website development skills and prepare for technical interviews.**
 
 Time spent: **7** hours spent in total
